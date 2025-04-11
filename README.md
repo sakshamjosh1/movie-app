@@ -75,7 +75,7 @@ movie-app/
 
 ## 5. Deployment
 
-### Option-1: GitHub Pages
+### GitHub Pages
 
 * Go to Settings > Pages in your GitHub repo.
 * Select main branch (or gh-pages).
