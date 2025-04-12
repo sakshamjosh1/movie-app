@@ -1,4 +1,4 @@
-# 🎬 Movie App Wiki Documentation
+# 🎬 PrimeFlix - Movie App
 
 ## 1. Project Overview
 
