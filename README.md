@@ -26,7 +26,7 @@ A responsive web app that:
 **1. Clone the repository**
 
 ```
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/sakshamjosh1/movie-app.git
 ```
 ```
 cd movie-app
