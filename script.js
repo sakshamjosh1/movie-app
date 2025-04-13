@@ -11,3 +11,6 @@ function getMovies(url) {
         showMovies(data.results);
     });
 }
+const IMAGE_URL = 'https://image.tmdb.org/t/p/w500';
+const main = document.getElementById('main');
+const form = document.getElementById('form');
