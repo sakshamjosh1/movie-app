@@ -11,3 +11,4 @@ function getMovies(url) {
         showMovies(data.results);
     });
 }
+
