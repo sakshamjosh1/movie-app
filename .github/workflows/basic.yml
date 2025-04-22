@@ -1,19 +1,14 @@
-name: Simple Node CI
+name: Windows Simple Workflow
 
 on: [push]
 
 jobs:
-  build:
+  say-hello:
     runs-on: windows-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-
-      - name: Run script
-        run: node index.js
+      - name: Say Hello on Windows
+        run: echo "Hello from GitHub Actions on Windows!"
